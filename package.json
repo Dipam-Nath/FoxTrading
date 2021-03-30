@@ -1,0 +1,21 @@
+{
+  "name": "fox-trad",
+  "version": "1.0.0",
+  "description": "modules for project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "B6",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "kiteconnect": "^3.0.0-beta.3",
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
